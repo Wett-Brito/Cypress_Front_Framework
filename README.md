@@ -19,8 +19,11 @@ Codado no visual studio code.
 ### Localizações importantes
 
 Features: cypress/e2e/features
+
 Steps Definition: cypress/e2e/steps
+
 Pages: cypress/support/pages/*
+
 ## Dependências
 
 - Cucumber;
