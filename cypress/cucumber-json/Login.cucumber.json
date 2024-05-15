@@ -1,0 +1,118 @@
+[
+  {
+    "description": "    Testes de validação de toda a tela de login.\n    Tem como objetivo validar que a tela de login,\n    esta funcionando de forma completa, com todos\n    as suas posibilidades de exceções.",
+    "keyword": "Funcionalidade",
+    "name": "Login",
+    "line": 2,
+    "id": "login",
+    "tags": [],
+    "uri": "Login.feature",
+    "elements": [
+      {
+        "id": "login;realizar-login-valido",
+        "keyword": "Scenario",
+        "line": 10,
+        "name": "Realizar login valido",
+        "tags": [
+          {
+            "name": "@id_01",
+            "line": 9
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Dado ",
+            "line": 11,
+            "name": "que eu logue no sistema",
+            "result": {
+              "status": "passed",
+              "duration": 1386000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Entao ",
+            "line": 12,
+            "name": "valido que o login aconteceu com sucesso",
+            "result": {
+              "status": "passed",
+              "duration": 9000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "login;realizar-login-com-usuario-errado",
+        "keyword": "Scenario",
+        "line": 20,
+        "name": "Realizar login com usuario errado",
+        "tags": [
+          {
+            "name": "@id_02",
+            "line": 14
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Dado ",
+            "line": 16,
+            "name": "que eu logue no sistema com \"errado\" e \"demo1234\"",
+            "result": {
+              "status": "passed",
+              "duration": 1074000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Entao ",
+            "line": 17,
+            "name": "valido que o login não aconteceu",
+            "result": {
+              "status": "passed",
+              "duration": 4000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "login;realizar-login-com-usuario-errado",
+        "keyword": "Scenario",
+        "line": 21,
+        "name": "Realizar login com usuario errado",
+        "tags": [
+          {
+            "name": "@id_02",
+            "line": 14
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Dado ",
+            "line": 16,
+            "name": "que eu logue no sistema com \"jsmith\" e \"errado\"",
+            "result": {
+              "status": "passed",
+              "duration": 1019000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Entao ",
+            "line": 17,
+            "name": "valido que o login não aconteceu",
+            "result": {
+              "status": "passed",
+              "duration": 4000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

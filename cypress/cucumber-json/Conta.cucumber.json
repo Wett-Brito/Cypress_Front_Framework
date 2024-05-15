@@ -1,0 +1,233 @@
+[
+  {
+    "description": "    Testes de validação de tudo relacionado a tela de\n    historico da conta.\n    Tem como objetivo validar garantir que todas as\n    informações apresentadas em suas tabelas estejam\n    corretas.",
+    "keyword": "Funcionalidade",
+    "name": "Conta",
+    "line": 2,
+    "id": "conta",
+    "tags": [],
+    "uri": "Conta.feature",
+    "elements": [
+      {
+        "id": "conta;validar-data-ultima-transacao-da-aba-de-recente",
+        "keyword": "Scenario",
+        "line": 14,
+        "name": "validar data ultima transacao da aba de recente",
+        "tags": [
+          {
+            "name": "@id_0001",
+            "line": 13
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Dado ",
+            "line": 11,
+            "name": "que eu logue no sistema",
+            "result": {
+              "status": "passed",
+              "duration": 1693000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Dado ",
+            "line": 15,
+            "name": "que eu seleciono o item",
+            "result": {
+              "status": "passed",
+              "duration": 148000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Quando ",
+            "line": 16,
+            "name": "eu confirmo o item",
+            "result": {
+              "status": "passed",
+              "duration": 353000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Entao ",
+            "line": 17,
+            "name": "valido a data da ultima transacao da aba de recente",
+            "result": {
+              "status": "passed",
+              "duration": 6000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "conta;validar-numero-da-ultima-transacao-da-aba-de-credito",
+        "keyword": "Scenario",
+        "line": 20,
+        "name": "validar numero da ultima transacao da aba de credito",
+        "tags": [
+          {
+            "name": "@id_0002",
+            "line": 19
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Dado ",
+            "line": 11,
+            "name": "que eu logue no sistema",
+            "result": {
+              "status": "passed",
+              "duration": 1112000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Dado ",
+            "line": 21,
+            "name": "que eu seleciono o item",
+            "result": {
+              "status": "passed",
+              "duration": 150000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Quando ",
+            "line": 22,
+            "name": "eu confirmo o item",
+            "result": {
+              "status": "passed",
+              "duration": 208000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Entao ",
+            "line": 23,
+            "name": "valido o numero da conta da ultima transacao da aba de credito",
+            "result": {
+              "status": "passed",
+              "duration": 28000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "conta;validar-descricao-da-ultima-transacao-da-aba-de-credito",
+        "keyword": "Scenario",
+        "line": 26,
+        "name": "validar descricao da ultima transacao da aba de credito",
+        "tags": [
+          {
+            "name": "@id_0003",
+            "line": 25
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Dado ",
+            "line": 11,
+            "name": "que eu logue no sistema",
+            "result": {
+              "status": "passed",
+              "duration": 1075000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Dado ",
+            "line": 27,
+            "name": "que eu seleciono o item",
+            "result": {
+              "status": "passed",
+              "duration": 142000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Quando ",
+            "line": 28,
+            "name": "eu confirmo o item",
+            "result": {
+              "status": "passed",
+              "duration": 208000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Entao ",
+            "line": 29,
+            "name": "valido o descricao da ultima transacao da aba de credito",
+            "result": {
+              "status": "passed",
+              "duration": 25000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "conta;validar-data-ultima-da-transacao-da-aba-de-credito",
+        "keyword": "Scenario",
+        "line": 32,
+        "name": "validar data ultima da transacao da aba de credito",
+        "tags": [
+          {
+            "name": "@id_0004",
+            "line": 31
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Dado ",
+            "line": 11,
+            "name": "que eu logue no sistema",
+            "result": {
+              "status": "passed",
+              "duration": 1058000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Dado ",
+            "line": 33,
+            "name": "que eu seleciono o item",
+            "result": {
+              "status": "passed",
+              "duration": 135000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Quando ",
+            "line": 34,
+            "name": "eu confirmo o item",
+            "result": {
+              "status": "passed",
+              "duration": 213000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Entao ",
+            "line": 35,
+            "name": "valido a data da ultima transacao da aba de credito",
+            "result": {
+              "status": "passed",
+              "duration": 26000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
