@@ -10,6 +10,7 @@ Framework basico feito em Cypress com Cucumber e relatorios sendo gerado por Mul
 Após ter o Node.js instalado na maquina, executar o comando.
 
 ```bash
+npm install
 npm run cypress:run
 ```
 
