@@ -28,7 +28,7 @@
             "name": "que eu logue no sistema",
             "result": {
               "status": "passed",
-              "duration": 1693000000
+              "duration": 1769000000
             }
           },
           {
@@ -38,7 +38,7 @@
             "name": "que eu seleciono o item",
             "result": {
               "status": "passed",
-              "duration": 148000000
+              "duration": 145000000
             }
           },
           {
@@ -48,7 +48,7 @@
             "name": "eu confirmo o item",
             "result": {
               "status": "passed",
-              "duration": 353000000
+              "duration": 388000000
             }
           },
           {
@@ -83,7 +83,7 @@
             "name": "que eu logue no sistema",
             "result": {
               "status": "passed",
-              "duration": 1112000000
+              "duration": 1081000000
             }
           },
           {
@@ -93,7 +93,7 @@
             "name": "que eu seleciono o item",
             "result": {
               "status": "passed",
-              "duration": 150000000
+              "duration": 128000000
             }
           },
           {
@@ -113,7 +113,7 @@
             "name": "valido o numero da conta da ultima transacao da aba de credito",
             "result": {
               "status": "passed",
-              "duration": 28000000
+              "duration": 27000000
             }
           }
         ]
@@ -148,7 +148,7 @@
             "name": "que eu seleciono o item",
             "result": {
               "status": "passed",
-              "duration": 142000000
+              "duration": 137000000
             }
           },
           {
@@ -158,7 +158,7 @@
             "name": "eu confirmo o item",
             "result": {
               "status": "passed",
-              "duration": 208000000
+              "duration": 206000000
             }
           },
           {
@@ -168,7 +168,7 @@
             "name": "valido o descricao da ultima transacao da aba de credito",
             "result": {
               "status": "passed",
-              "duration": 25000000
+              "duration": 26000000
             }
           }
         ]
@@ -193,7 +193,7 @@
             "name": "que eu logue no sistema",
             "result": {
               "status": "passed",
-              "duration": 1058000000
+              "duration": 1070000000
             }
           },
           {
@@ -203,7 +203,7 @@
             "name": "que eu seleciono o item",
             "result": {
               "status": "passed",
-              "duration": 135000000
+              "duration": 131000000
             }
           },
           {
@@ -213,7 +213,7 @@
             "name": "eu confirmo o item",
             "result": {
               "status": "passed",
-              "duration": 213000000
+              "duration": 208000000
             }
           },
           {
@@ -223,7 +223,7 @@
             "name": "valido a data da ultima transacao da aba de credito",
             "result": {
               "status": "passed",
-              "duration": 26000000
+              "duration": 27000000
             }
           }
         ]

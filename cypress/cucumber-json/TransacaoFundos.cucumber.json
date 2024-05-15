@@ -28,7 +28,7 @@
             "name": "que eu logue no sistema",
             "result": {
               "status": "passed",
-              "duration": 1719000000
+              "duration": 1424000000
             }
           },
           {
@@ -38,7 +38,7 @@
             "name": "que eu vá para a tela de transferencia de fundos",
             "result": {
               "status": "passed",
-              "duration": 190000000
+              "duration": 194000000
             }
           },
           {
@@ -48,7 +48,7 @@
             "name": "eu seleciono a conta de contaOrigem",
             "result": {
               "status": "passed",
-              "duration": 147000000
+              "duration": 164000000
             }
           },
           {
@@ -58,7 +58,7 @@
             "name": "seleciono a conta de contaDestino",
             "result": {
               "status": "passed",
-              "duration": 156000000
+              "duration": 154000000
             }
           },
           {
@@ -68,7 +68,7 @@
             "name": "preencho o valor que vai ser transferido",
             "result": {
               "status": "passed",
-              "duration": 234000000
+              "duration": 246000000
             }
           },
           {
@@ -78,7 +78,7 @@
             "name": "clico no botao de transferir dinheiro",
             "result": {
               "status": "passed",
-              "duration": 211000000
+              "duration": 217000000
             }
           },
           {
@@ -88,7 +88,7 @@
             "name": "uma mensagem de transferencia com sucesso deve ser apresentada na tela",
             "result": {
               "status": "passed",
-              "duration": 18000000
+              "duration": 23000000
             }
           }
         ]
