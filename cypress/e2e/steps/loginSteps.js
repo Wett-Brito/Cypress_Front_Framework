@@ -1,5 +1,5 @@
 import { Given, When, Then} from 'cypress-cucumber-preprocessor/steps'
-import login from "../../support/pages/login";
+import login from "../pages/login";
 const loginData = require('../data/loginData').LOGINDATA
 
 

@@ -28,7 +28,7 @@
             "name": "que eu logue no sistema",
             "result": {
               "status": "passed",
-              "duration": 1420000000
+              "duration": 1407000000
             }
           },
           {
@@ -63,7 +63,7 @@
             "name": "que eu logue no sistema com \"errado\" e \"demo1234\"",
             "result": {
               "status": "passed",
-              "duration": 1056000000
+              "duration": 1057000000
             }
           },
           {
@@ -98,7 +98,7 @@
             "name": "que eu logue no sistema com \"jsmith\" e \"errado\"",
             "result": {
               "status": "passed",
-              "duration": 1012000000
+              "duration": 1026000000
             }
           },
           {
@@ -108,7 +108,7 @@
             "name": "valido que o login não aconteceu",
             "result": {
               "status": "passed",
-              "duration": 5000000
+              "duration": 3000000
             }
           }
         ]

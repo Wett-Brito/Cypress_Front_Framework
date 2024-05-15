@@ -1,6 +1,6 @@
 import { Given, When, Then} from 'cypress-cucumber-preprocessor/steps';
-import inicio from "../../support/pages/inicio";
-import historicoConta from "../../support/pages/historicoConta";
+import inicio from "../pages/inicio";
+import historicoConta from "../pages/historicoConta";
 const contaData = require('../data/contaData').CONTADATA;
 
 Given('que eu seleciono o item',  () => {

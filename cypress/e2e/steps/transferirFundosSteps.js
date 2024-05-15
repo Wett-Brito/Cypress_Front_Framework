@@ -1,6 +1,6 @@
 import { Given, When, Then, And} from 'cypress-cucumber-preprocessor/steps'
-import inicio from '../../support/pages/inicio'
-import transferirFundos from '../../support/pages/transferirFundos'
+import inicio from '../pages/inicio'
+import transferirFundos from '../pages/transferirFundos'
 const transferirFundosData = require('../data/transferirFundosData').CONTATRANSF
 
 
